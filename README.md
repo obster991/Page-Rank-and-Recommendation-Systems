@@ -6,7 +6,7 @@
 University project at the course of Data Mining Technology for Business and Society concerning the use of the Scikit-network library for the Page Rank applied to an Harry Potter dataset and Surprise library for recommendation-systems.
 
 
-# Project tasks
+# Project Tasks
 
 1. Using the provided dataset, you must run various PageRank algorithms including Topic Specific PR and Personalized PR. The dataset for this part is an unweighted and undirected graph, where nodes represent characters from the "Harry Potter" books and an edge connects two characters in the graph if their names appeared at least one time within 14 words of one another in at least one of the books.
 
